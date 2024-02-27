@@ -1,16 +1,14 @@
-### Hi there 👋
+### Ola! Eu sou o Matheus Nascimento 🖐️
 
-<!--
-**matheusnferraz/matheusnferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📚 Cursando Desenvolvedor Back-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style=''display: inline_block'' ><br/>
+<img align='center'html5'' src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><div style=''display: inline_block'' ><br/>
+<img align='center'html5'' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<div style=''display: inline_block'' ><br/>
+<img align='center'html5'' src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  
+
+
+
